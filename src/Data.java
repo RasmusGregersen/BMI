@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class Data implements IData{
 	private class Person {
 		String cpr;
