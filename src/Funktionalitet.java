@@ -1,4 +1,4 @@
-public class Funktionalitet implements IData, IFunktionalitet {
+public class Funktionalitet implements IFunktionalitet {
 		IData data = new Data();
 		private double BMI;
 	public double getBMI(String cpr) {
